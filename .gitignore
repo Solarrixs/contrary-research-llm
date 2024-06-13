@@ -9,6 +9,8 @@ __pycache__/
 # Data
 data/
 
+# MacOS
+.DS_Store
 
 # Distribution / packaging
 .Python
